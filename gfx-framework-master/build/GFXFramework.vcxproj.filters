@@ -1,0 +1,318 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\bobel\OneDrive\Documente\facultate\egc\gfx-framework-master\gfx-framework-master\src\components\camera_input.cpp">
+      <Filter>src\components</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\bobel\OneDrive\Documente\facultate\egc\gfx-framework-master\gfx-framework-master\src\components\scene_input.cpp">
+      <Filter>src\components</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\bobel\OneDrive\Documente\facultate\egc\gfx-framework-master\gfx-framework-master\src\components\simple_scene.cpp">
+      <Filter>src\components</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\bobel\OneDrive\Documente\facultate\egc\gfx-framework-master\gfx-framework-master\src\components\text_renderer.cpp">
+      <Filter>src\components</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\bobel\OneDrive\Documente\facultate\egc\gfx-framework-master\gfx-framework-master\src\core\engine.cpp">
+      <Filter>src\core</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\bobel\OneDrive\Documente\facultate\egc\gfx-framework-master\gfx-framework-master\src\core\gpu\frame_buffer.cpp">
+      <Filter>src\core\gpu</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\bobel\OneDrive\Documente\facultate\egc\gfx-framework-master\gfx-framework-master\src\core\gpu\gpu_buffers.cpp">
+      <Filter>src\core\gpu</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\bobel\OneDrive\Documente\facultate\egc\gfx-framework-master\gfx-framework-master\src\core\gpu\mesh.cpp">
+      <Filter>src\core\gpu</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\bobel\OneDrive\Documente\facultate\egc\gfx-framework-master\gfx-framework-master\src\core\gpu\shader.cpp">
+      <Filter>src\core\gpu</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\bobel\OneDrive\Documente\facultate\egc\gfx-framework-master\gfx-framework-master\src\core\gpu\texture2D.cpp">
+      <Filter>src\core\gpu</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\bobel\OneDrive\Documente\facultate\egc\gfx-framework-master\gfx-framework-master\src\core\managers\texture_manager.cpp">
+      <Filter>src\core\managers</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\bobel\OneDrive\Documente\facultate\egc\gfx-framework-master\gfx-framework-master\src\core\window\input_controller.cpp">
+      <Filter>src\core\window</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\bobel\OneDrive\Documente\facultate\egc\gfx-framework-master\gfx-framework-master\src\core\window\window_callbacks.cpp">
+      <Filter>src\core\window</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\bobel\OneDrive\Documente\facultate\egc\gfx-framework-master\gfx-framework-master\src\core\window\window_object.cpp">
+      <Filter>src\core\window</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\bobel\OneDrive\Documente\facultate\egc\gfx-framework-master\gfx-framework-master\src\core\world.cpp">
+      <Filter>src\core</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\bobel\OneDrive\Documente\facultate\egc\gfx-framework-master\gfx-framework-master\src\lab_m1\lab1\lab1.cpp">
+      <Filter>src\lab_m1\lab1</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\bobel\OneDrive\Documente\facultate\egc\gfx-framework-master\gfx-framework-master\src\lab_m1\lab2\lab2.cpp">
+      <Filter>src\lab_m1\lab2</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\bobel\OneDrive\Documente\facultate\egc\gfx-framework-master\gfx-framework-master\src\lab_m1\lab4\lab4.cpp">
+      <Filter>src\lab_m1\lab4</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\bobel\OneDrive\Documente\facultate\egc\gfx-framework-master\gfx-framework-master\src\lab_m1\lab6\lab6.cpp">
+      <Filter>src\lab_m1\lab6</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\bobel\OneDrive\Documente\facultate\egc\gfx-framework-master\gfx-framework-master\src\lab_m1\lab7\lab7.cpp">
+      <Filter>src\lab_m1\lab7</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\bobel\OneDrive\Documente\facultate\egc\gfx-framework-master\gfx-framework-master\src\lab_m1\lab8\lab8.cpp">
+      <Filter>src\lab_m1\lab8</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\bobel\OneDrive\Documente\facultate\egc\gfx-framework-master\gfx-framework-master\src\lab_m1\lab9\lab9.cpp">
+      <Filter>src\lab_m1\lab9</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\bobel\OneDrive\Documente\facultate\egc\gfx-framework-master\gfx-framework-master\src\lab_m1\tema1\object2D.cpp">
+      <Filter>src\lab_m1\tema1</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\bobel\OneDrive\Documente\facultate\egc\gfx-framework-master\gfx-framework-master\src\lab_m1\tema1\tema1.cpp">
+      <Filter>src\lab_m1\tema1</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\bobel\OneDrive\Documente\facultate\egc\gfx-framework-master\gfx-framework-master\src\lab_m1\tema2\tema2.cpp">
+      <Filter>src\lab_m1\tema2</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\bobel\OneDrive\Documente\facultate\egc\gfx-framework-master\gfx-framework-master\src\main.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\bobel\OneDrive\Documente\facultate\egc\gfx-framework-master\gfx-framework-master\src\utils\gl_utils.cpp">
+      <Filter>src\utils</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\bobel\OneDrive\Documente\facultate\egc\gfx-framework-master\gfx-framework-master\src\utils\text_utils.cpp">
+      <Filter>src\utils</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\bobel\OneDrive\Documente\facultate\egc\gfx-framework-master\gfx-framework-master\src\components\camera.h">
+      <Filter>src\components</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\bobel\OneDrive\Documente\facultate\egc\gfx-framework-master\gfx-framework-master\src\components\camera_input.h">
+      <Filter>src\components</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\bobel\OneDrive\Documente\facultate\egc\gfx-framework-master\gfx-framework-master\src\components\exports.h">
+      <Filter>src\components</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\bobel\OneDrive\Documente\facultate\egc\gfx-framework-master\gfx-framework-master\src\components\scene_input.h">
+      <Filter>src\components</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\bobel\OneDrive\Documente\facultate\egc\gfx-framework-master\gfx-framework-master\src\components\simple_scene.h">
+      <Filter>src\components</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\bobel\OneDrive\Documente\facultate\egc\gfx-framework-master\gfx-framework-master\src\components\text_renderer.h">
+      <Filter>src\components</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\bobel\OneDrive\Documente\facultate\egc\gfx-framework-master\gfx-framework-master\src\components\transform.h">
+      <Filter>src\components</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\bobel\OneDrive\Documente\facultate\egc\gfx-framework-master\gfx-framework-master\src\core\engine.h">
+      <Filter>src\core</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\bobel\OneDrive\Documente\facultate\egc\gfx-framework-master\gfx-framework-master\src\core\gpu\frame_buffer.h">
+      <Filter>src\core\gpu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\bobel\OneDrive\Documente\facultate\egc\gfx-framework-master\gfx-framework-master\src\core\gpu\gpu_buffers.h">
+      <Filter>src\core\gpu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\bobel\OneDrive\Documente\facultate\egc\gfx-framework-master\gfx-framework-master\src\core\gpu\mesh.h">
+      <Filter>src\core\gpu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\bobel\OneDrive\Documente\facultate\egc\gfx-framework-master\gfx-framework-master\src\core\gpu\particle_effect.h">
+      <Filter>src\core\gpu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\bobel\OneDrive\Documente\facultate\egc\gfx-framework-master\gfx-framework-master\src\core\gpu\shader.h">
+      <Filter>src\core\gpu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\bobel\OneDrive\Documente\facultate\egc\gfx-framework-master\gfx-framework-master\src\core\gpu\ssbo.h">
+      <Filter>src\core\gpu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\bobel\OneDrive\Documente\facultate\egc\gfx-framework-master\gfx-framework-master\src\core\gpu\texture2D.h">
+      <Filter>src\core\gpu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\bobel\OneDrive\Documente\facultate\egc\gfx-framework-master\gfx-framework-master\src\core\gpu\vertex_bone_data.h">
+      <Filter>src\core\gpu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\bobel\OneDrive\Documente\facultate\egc\gfx-framework-master\gfx-framework-master\src\core\gpu\vertex_format.h">
+      <Filter>src\core\gpu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\bobel\OneDrive\Documente\facultate\egc\gfx-framework-master\gfx-framework-master\src\core\managers\resource_path.h">
+      <Filter>src\core\managers</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\bobel\OneDrive\Documente\facultate\egc\gfx-framework-master\gfx-framework-master\src\core\managers\texture_manager.h">
+      <Filter>src\core\managers</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\bobel\OneDrive\Documente\facultate\egc\gfx-framework-master\gfx-framework-master\src\core\window\input_controller.h">
+      <Filter>src\core\window</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\bobel\OneDrive\Documente\facultate\egc\gfx-framework-master\gfx-framework-master\src\core\window\window_callbacks.h">
+      <Filter>src\core\window</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\bobel\OneDrive\Documente\facultate\egc\gfx-framework-master\gfx-framework-master\src\core\window\window_object.h">
+      <Filter>src\core\window</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\bobel\OneDrive\Documente\facultate\egc\gfx-framework-master\gfx-framework-master\src\core\world.h">
+      <Filter>src\core</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\bobel\OneDrive\Documente\facultate\egc\gfx-framework-master\gfx-framework-master\src\lab_m1\lab1\lab1.h">
+      <Filter>src\lab_m1\lab1</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\bobel\OneDrive\Documente\facultate\egc\gfx-framework-master\gfx-framework-master\src\lab_m1\lab2\lab2.h">
+      <Filter>src\lab_m1\lab2</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\bobel\OneDrive\Documente\facultate\egc\gfx-framework-master\gfx-framework-master\src\lab_m1\lab4\lab4.h">
+      <Filter>src\lab_m1\lab4</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\bobel\OneDrive\Documente\facultate\egc\gfx-framework-master\gfx-framework-master\src\lab_m1\lab4\transform3D.h">
+      <Filter>src\lab_m1\lab4</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\bobel\OneDrive\Documente\facultate\egc\gfx-framework-master\gfx-framework-master\src\lab_m1\lab6\lab6.h">
+      <Filter>src\lab_m1\lab6</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\bobel\OneDrive\Documente\facultate\egc\gfx-framework-master\gfx-framework-master\src\lab_m1\lab6\shaders\FragmentShader.glsl">
+      <Filter>src\lab_m1\lab6\shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\bobel\OneDrive\Documente\facultate\egc\gfx-framework-master\gfx-framework-master\src\lab_m1\lab6\shaders\VertexShader.glsl">
+      <Filter>src\lab_m1\lab6\shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\bobel\OneDrive\Documente\facultate\egc\gfx-framework-master\gfx-framework-master\src\lab_m1\lab7\lab7.h">
+      <Filter>src\lab_m1\lab7</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\bobel\OneDrive\Documente\facultate\egc\gfx-framework-master\gfx-framework-master\src\lab_m1\lab7\shaders\FragmentShader.glsl">
+      <Filter>src\lab_m1\lab7\shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\bobel\OneDrive\Documente\facultate\egc\gfx-framework-master\gfx-framework-master\src\lab_m1\lab7\shaders\VertexShader.glsl">
+      <Filter>src\lab_m1\lab7\shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\bobel\OneDrive\Documente\facultate\egc\gfx-framework-master\gfx-framework-master\src\lab_m1\lab8\lab8.h">
+      <Filter>src\lab_m1\lab8</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\bobel\OneDrive\Documente\facultate\egc\gfx-framework-master\gfx-framework-master\src\lab_m1\lab8\shaders\FragmentShader.glsl">
+      <Filter>src\lab_m1\lab8\shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\bobel\OneDrive\Documente\facultate\egc\gfx-framework-master\gfx-framework-master\src\lab_m1\lab8\shaders\VertexShader.glsl">
+      <Filter>src\lab_m1\lab8\shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\bobel\OneDrive\Documente\facultate\egc\gfx-framework-master\gfx-framework-master\src\lab_m1\lab9\lab9.h">
+      <Filter>src\lab_m1\lab9</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\bobel\OneDrive\Documente\facultate\egc\gfx-framework-master\gfx-framework-master\src\lab_m1\lab9\shaders\FragmentShader.glsl">
+      <Filter>src\lab_m1\lab9\shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\bobel\OneDrive\Documente\facultate\egc\gfx-framework-master\gfx-framework-master\src\lab_m1\lab9\shaders\VertexShader.glsl">
+      <Filter>src\lab_m1\lab9\shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\bobel\OneDrive\Documente\facultate\egc\gfx-framework-master\gfx-framework-master\src\lab_m1\lab_list.h">
+      <Filter>src\lab_m1</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\bobel\OneDrive\Documente\facultate\egc\gfx-framework-master\gfx-framework-master\src\lab_m1\tema1\object2D.h">
+      <Filter>src\lab_m1\tema1</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\bobel\OneDrive\Documente\facultate\egc\gfx-framework-master\gfx-framework-master\src\lab_m1\tema1\tema1.h">
+      <Filter>src\lab_m1\tema1</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\bobel\OneDrive\Documente\facultate\egc\gfx-framework-master\gfx-framework-master\src\lab_m1\tema2\camera.h">
+      <Filter>src\lab_m1\tema2</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\bobel\OneDrive\Documente\facultate\egc\gfx-framework-master\gfx-framework-master\src\lab_m1\tema2\shaders\FragmentShader.glsl">
+      <Filter>src\lab_m1\tema2\shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\bobel\OneDrive\Documente\facultate\egc\gfx-framework-master\gfx-framework-master\src\lab_m1\tema2\shaders\VertexShader.glsl">
+      <Filter>src\lab_m1\tema2\shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\bobel\OneDrive\Documente\facultate\egc\gfx-framework-master\gfx-framework-master\src\lab_m1\tema2\tema2.h">
+      <Filter>src\lab_m1\tema2</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\bobel\OneDrive\Documente\facultate\egc\gfx-framework-master\gfx-framework-master\src\utils\gl_utils.h">
+      <Filter>src\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\bobel\OneDrive\Documente\facultate\egc\gfx-framework-master\gfx-framework-master\src\utils\glm_utils.h">
+      <Filter>src\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\bobel\OneDrive\Documente\facultate\egc\gfx-framework-master\gfx-framework-master\src\utils\math_utils.h">
+      <Filter>src\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\bobel\OneDrive\Documente\facultate\egc\gfx-framework-master\gfx-framework-master\src\utils\memory_utils.h">
+      <Filter>src\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\bobel\OneDrive\Documente\facultate\egc\gfx-framework-master\gfx-framework-master\src\utils\text_utils.h">
+      <Filter>src\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\bobel\OneDrive\Documente\facultate\egc\gfx-framework-master\gfx-framework-master\src\utils\window_utils.h">
+      <Filter>src\utils</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\bobel\OneDrive\Documente\facultate\egc\gfx-framework-master\gfx-framework-master\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="src">
+      <UniqueIdentifier>{B7289D10-7514-3ABD-A152-3109412B48D8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\components">
+      <UniqueIdentifier>{4E2868BB-AE1F-375B-BD12-28D8761DA7C2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\core">
+      <UniqueIdentifier>{CC8D5273-255A-3A03-BA94-D61C393F97B6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\core\gpu">
+      <UniqueIdentifier>{BA4A0C32-88E9-37BC-945F-3F227EBF72AA}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\core\managers">
+      <UniqueIdentifier>{439122F3-95FC-3181-B7DF-2EA603B0D16F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\core\window">
+      <UniqueIdentifier>{EC7D1DC8-29E8-362E-B132-0BBFE493ACF5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\lab_m1">
+      <UniqueIdentifier>{080F2893-0247-3B98-A183-98BFE6B0BB6E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\lab_m1\lab1">
+      <UniqueIdentifier>{35CE5A10-EAAC-3E36-810E-68CE7B963221}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\lab_m1\lab2">
+      <UniqueIdentifier>{FC068D7A-066B-33C1-9C06-E8F8A3F09031}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\lab_m1\lab4">
+      <UniqueIdentifier>{F0169E77-8DE3-3D71-A5B1-67A7B9FA2CDC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\lab_m1\lab6">
+      <UniqueIdentifier>{9A8A9537-BC2D-3FEB-8882-A3D552939216}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\lab_m1\lab6\shaders">
+      <UniqueIdentifier>{FBCD8D4F-E914-3EB7-AC9E-05BC1EE58452}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\lab_m1\lab7">
+      <UniqueIdentifier>{0A3D1BC5-9DA5-3E8E-A2F8-D11BE40D9677}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\lab_m1\lab7\shaders">
+      <UniqueIdentifier>{94CCCB3B-ECED-3631-8EAF-F532F139D35B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\lab_m1\lab8">
+      <UniqueIdentifier>{A11C27B0-78CF-36C8-922A-39BF32EA66BA}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\lab_m1\lab8\shaders">
+      <UniqueIdentifier>{0611BB55-B446-3160-A446-046131870360}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\lab_m1\lab9">
+      <UniqueIdentifier>{15A5DDCF-1ECD-31A3-A6D5-3C2B12201501}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\lab_m1\lab9\shaders">
+      <UniqueIdentifier>{6A68731C-F61D-3893-BE42-0B9F19A9656D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\lab_m1\tema1">
+      <UniqueIdentifier>{8CBCE318-7B1C-37DE-B86B-940910F60CBB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\lab_m1\tema2">
+      <UniqueIdentifier>{8CBB1F96-E345-3248-989C-23431F3BDF06}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\lab_m1\tema2\shaders">
+      <UniqueIdentifier>{D7E2AB86-47C1-3AC5-B922-40B883E8DA74}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\utils">
+      <UniqueIdentifier>{8119C8B0-31B8-37DE-9E88-1A2ED3B65EDC}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
